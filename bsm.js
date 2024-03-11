@@ -1,4 +1,4 @@
-let destino = ["San Andrés", "Pereira", "Manizales", "Cali", "Bogota"];
+let destino = ["Barranquilla", "Medellin", "San Andrés", "Pereira", "Manizales", "Cali", "Bogota"];
 let opcion;
 let pesoTotal = 0;
 let pesoMaletasHombres = 0;
